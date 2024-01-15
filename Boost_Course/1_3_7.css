@@ -1,0 +1,39 @@
+header{
+    background-color : #eee;
+}
+li{
+    list-style: none;
+}
+#wrap{
+    background-color: #ccc;
+    overflow: auto;
+
+    margin: 20px 0px;
+}
+.left, .right{
+    float:left;
+    height: 200px;
+}
+.left{
+    width:17%;
+    margin-right: 3%;
+    background-color: #47c;
+}
+.right{
+    width:80%;
+    text-align: center;
+    background-color: #47c;
+}
+.right > h2{
+    position:relative;
+}
+.right .emoticon{
+    position : absolute;
+    top:0px;
+    right: 5%;
+    color:#fff;
+}
+footer{
+    background-color: #eee;;
+    clear:left;
+}

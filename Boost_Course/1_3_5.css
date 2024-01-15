@@ -1,0 +1,10 @@
+/* div, p{
+    width:100px;
+    height: 100px;
+    border:1px solid gray;
+    display: inline;
+} */
+div > *{
+    display : block;
+    border:1px solid gray;
+}

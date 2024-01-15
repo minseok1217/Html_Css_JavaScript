@@ -1,0 +1,20 @@
+div{
+    width: 100px;
+    height: 100px;
+    border: 1px solid gray;
+    font-size:0.7em;
+}
+.blue{
+    background-color: blue;
+}
+.green{
+    float:left;
+    background-color:green;
+    padding: 25px;
+    margin-left: 150px;
+}
+.red{
+    width: 150px;
+    height: 150px;
+    background-color: red;
+}
