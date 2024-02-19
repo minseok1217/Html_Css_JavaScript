@@ -1,0 +1,8 @@
+body{
+    border: 3px solid black;
+    /* float:inline-end; */
+}
+#user_name, #password{
+    width: 200px;
+    height: 20px;
+}
